@@ -1,3 +1,9 @@
+// Fruits into Baskets
+// Approach: Exactly(k) = Atmost(k) - Atmost(k-1)
+// Time: O(n)
+// Space: O(1)
+
+
 package sliding_window;
 import java.util.*;
 public class fruits_into_baskets {

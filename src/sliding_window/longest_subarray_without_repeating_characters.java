@@ -1,3 +1,8 @@
+//3. Longest Substring Without Repeating Characters
+// Approach: Sliding Window
+// Time: O(n)
+// Space: O(1)
+
 package sliding_window;
 import java.util.*;
 
